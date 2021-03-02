@@ -1,1 +1,3 @@
-# Tämä kansio sisältää Ohjelmoinnin perustaito-kurssin tehtäviö ja esimerkkiratkaisuja.
+# Tiedoksi 
+Tämä kansio sisältää Ohjelmoinnin perustaito-kurssin tehtäviö ja esimerkkiratkaisuja.
+
